@@ -1,5 +1,10 @@
 boost-nowide
 ============
+REPOSITORY ARCHIVED
+nowide is part of boost now: https://github.com/boostorg/nowide
+
+There is also a standalone version (branch and releases) and it works with c++11.
+
 
 A clone of http://cppcms.com/files/nowide/ (see [documentation](http://cppcms.com/files/nowide/html/)).
 
